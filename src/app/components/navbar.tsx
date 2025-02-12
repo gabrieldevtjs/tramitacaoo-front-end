@@ -6,7 +6,7 @@ import { GoChevronRight } from "react-icons/go";
 import { GoChevronUp } from "react-icons/go";
 
 export default function NavBar() {
-  const [navbarOpen, setnavBarOpen] = useState(false);
+  const [navbarOpen, setnavBarOpen] = useState(true);
   const [cadastroBar, setCadastroBar] = useState(false);
   const [gerenciamentoBar, setGerenciamentoBar] = useState(false);
   const [listagemBar, setlistagemBar] = useState(false);
@@ -26,7 +26,7 @@ export default function NavBar() {
   }
 
   return (
-    <nav className="w-full flex items-center justify-between bg-[#27B3F8] py-4 px-6 lg:w-52 lg:flex-col lg:justify-start lg:pt-8">
+    <nav className="w-full flex items-center justify-between bg-blue-600 py-4 px-6 lg:w-52 lg:flex-col lg:justify-start lg:pt-8">
       {/* Logo */}
       <div className="hidden lg:flex flex-col">
         <div className="flex gap-16 items-center">
