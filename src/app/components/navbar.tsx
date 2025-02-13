@@ -81,7 +81,7 @@ export default function NavBar() {
                   </li>
 
                   <li>
-                    <a href="/registerSetor" className="hover:text-gray-200">
+                    <a href="/registerDocumento" className="hover:text-gray-200">
                       Cadastrar Documento
                     </a>
                   </li>
@@ -114,7 +114,7 @@ export default function NavBar() {
                   </li>
 
                   <li>
-                    <a href="/registerSetor" className="hover:text-gray-200">
+                    <a href="/listSetor" className="hover:text-gray-200">
                       Listagem De Setores
                     </a>
                   </li>
