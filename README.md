@@ -1,33 +1,36 @@
-Frontend da Aplicação
-🔧 Tecnologias Utilizadas
+# Frontend da Aplicação
 
-Next.js - Framework React
-React - Biblioteca principal
-Tailwind CSS - Framework de estilização
-API REST - Comunicação com backend
 
-⚡ Pré-requisitos
+##🔧 Tecnologias Utilizadas
+
+- **Next.js**: Framework React para SSR e SSG
+- **React**: Biblioteca principal para a construção de interfaces
+- **Tailwind CSS**: Framework de estilização utilitário
+- **API REST**: Comunicação com o backend
+
+
+##⚡ Pré-requisitos
 Para rodar este projeto, você precisa ter instalado:
 
-Node.js (versão 14 ou superior)
+- **Node.js**: versão 14 ou superior
 
-🚀 Instalação
-Clone o repositório
+##🚀 Instalação
+### Passo 1: Clone o repositório
 
 git clone seu-repositorio
 cd nome-do-projeto
 
 
-Instale as dependências
+### Passo 2: Instale as dependências
 comando: npm install
 
 
-Inicie o projeto
+### Passo 3: Inicie o projeto
 # Desenvolvimento
 comando: npm run dev
 
 
-📝 Notas Importantes
+#📝 Notas Importantes
 
 Certifique-se de ter o Node.js instalado
 Execute npm install antes de iniciar o projeto
