@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Frontend da Aplicação
+🔧 Tecnologias Utilizadas
 
-## Getting Started
+Next.js - Framework React
+React - Biblioteca principal
+Tailwind CSS - Framework de estilização
+API REST - Comunicação com backend
 
-First, run the development server:
+⚡ Pré-requisitos
+Para rodar este projeto, você precisa ter instalado:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Node.js (versão 14 ou superior)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🚀 Instalação
+Clone o repositório
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+git clone seu-repositorio
+cd nome-do-projeto
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Instale as dependências
+comando: npm install
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Inicie o projeto
+# Desenvolvimento
+comando: npm run dev
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+📝 Notas Importantes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Certifique-se de ter o Node.js instalado
+Execute npm install antes de iniciar o projeto
+O projeto irá rodar na porta 3000 - http://localhost:3000
